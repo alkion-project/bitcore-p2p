@@ -56,7 +56,7 @@
         "url": "https://github.com/alkion-project/bitcore-p2p.git"
     },
     "dependencies": {
-        "bitcore-lib": "git://github.com/alkion-project/bithao-lib.git",
+        "bitcore-lib": "git://github.com/alkion-project/alkion-lib.git",
         "bloom-filter": "^0.2.0",
         "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
         "socks5-client": "^0.3.6"
